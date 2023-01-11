@@ -1,0 +1,19 @@
+# An example of items stored in TOML. Could have easily been JSON, etc.
+
+[goblin-grunt]
+name = "golbin grunt"
+min_health = 20
+max_health = 30
+resist = ["cold", "poison"]
+weakness = ["fire", "light"]
+
+[goblin-wizard]
+name = "goblin wizard"
+prototype = ["goblin-grunt"]
+resist = ["magic"]
+spells = ["fireball", "lightning bolt"]
+
+[goblin-archer]
+name = "goblin archer"
+prototype = ["goblin-grunt"]
+attacks = ["short bow"]

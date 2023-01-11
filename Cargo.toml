@@ -1,0 +1,44 @@
+[package]
+name = "game-patterns-rs"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+
+[dev-dependencies]
+rand = "0.8.5"
+serde = "1.0.152"
+serde_derive = "1.0.152"
+toml = "0.5.10"
+
+[[example]]
+name = "design-command"
+path = "examples/design/command.rs"
+
+[[example]]
+name = "design-flyweight"
+path = "examples/design/flyweight.rs"
+
+[[example]]
+name = "design-observer"
+path = "examples/design/observer.rs"
+
+[[example]]
+name = "design-prototype"
+path = "examples/design/prototype.rs"
+
+[[example]]
+name = "design-state"
+path = "examples/design/state.rs"
+
+[[example]]
+name = "sequencing-double-buffer"
+path = "examples/sequencing/double-buffer.rs"
+
+[[example]]
+name = "sequencing-game-loop"
+path = "examples/sequencing/game-loop.rs"
+
+[[example]]
+name = "sequencing-update"
+path = "examples/sequencing/update.rs"
