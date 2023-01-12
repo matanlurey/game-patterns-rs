@@ -9,7 +9,7 @@
 //! It tracks the passage of time to control the rate of gameplay.
 //!
 //! ```bash
-//! cargo run --example sequencing-game-loop
+//! cargo run --example sequence-game-loop
 //! ```
 
 use std::{

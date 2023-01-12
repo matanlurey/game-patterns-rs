@@ -3,7 +3,7 @@
 //! Our program renders the pixels one at a time, but we want the display driver to see them all.
 //!
 //! ```bash
-//! cargo run --example sequencing-double-buffer
+//! cargo run --example sequence-double-buffer
 //! ```
 
 use std::mem;

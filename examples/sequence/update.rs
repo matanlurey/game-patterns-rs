@@ -9,7 +9,7 @@
 //! - The objects need to be simulated over time.
 //!
 //! ```bash
-//! cargo run --example sequencing-update
+//! cargo run --example sequence-update
 //! ```
 
 use std::time::Duration;

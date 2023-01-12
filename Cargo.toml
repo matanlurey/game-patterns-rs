@@ -32,13 +32,25 @@ name = "design-state"
 path = "examples/design/state.rs"
 
 [[example]]
-name = "sequencing-double-buffer"
-path = "examples/sequencing/double-buffer.rs"
+name = "sequence-double-buffer"
+path = "examples/sequence/double-buffer.rs"
 
 [[example]]
-name = "sequencing-game-loop"
-path = "examples/sequencing/game-loop.rs"
+name = "sequence-game-loop"
+path = "examples/sequence/game-loop.rs"
 
 [[example]]
-name = "sequencing-update"
-path = "examples/sequencing/update.rs"
+name = "sequence-update"
+path = "examples/sequence/update.rs"
+
+[[example]]
+name = "behavior-bytecode"
+path = "examples/behavior/bytecode.rs"
+
+[[example]]
+name = "behavior-sandbox"
+path = "examples/behavior/sandbox.rs"
+
+[[example]]
+name = "behavior-intent"
+path = "examples/behavior/intent.rs"
