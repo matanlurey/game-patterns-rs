@@ -24,8 +24,8 @@ implemented in Rust.
 ## Decoupling
 
 - [Component](examples/decouple/component.rs)
-- Event Queue
-- Service Locator
+- [Event Queue](examples/decouple/event-queue.rs)
+- [Service Locator](examples/decouple/service-locator.rs)
 
 ## Design
 

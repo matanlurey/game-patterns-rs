@@ -59,3 +59,10 @@ path = "examples/behavior/intent.rs"
 name = "decouple-component"
 path = "examples/decouple/component.rs"
 
+[[example]]
+name = "decouple-event-queue"
+path = "examples/decouple/event-queue.rs"
+
+[[example]]
+name = "decouple-service-locator"
+path = "examples/decouple/service-locator.rs"
