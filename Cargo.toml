@@ -54,3 +54,8 @@ path = "examples/behavior/sandbox.rs"
 [[example]]
 name = "behavior-intent"
 path = "examples/behavior/intent.rs"
+
+[[example]]
+name = "decouple-component"
+path = "examples/decouple/component.rs"
+

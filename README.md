@@ -14,3 +14,30 @@ implemented in Rust.
 > slightest ripple on the placid surface of the code.
 
 [book-intro]: https://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture
+
+## Behavioral
+
+- [Bytecode](examples/behavior/bytecode.rs)
+- [Intent](examples/behavior/intent.rs)
+- [Sandbox](examples/behavior/sandbox.rs)
+
+## Decoupling
+
+- [Component](examples/decouple/component.rs)
+- Event Queue
+- Service Locator
+
+## Design
+
+- [Command](examples/design/command.rs)
+- [Flyweight](examples/design/flyweight.rs)
+- [Observer](examples/design/observer.rs)
+- [Prototype](examples/design/prototype.rs)
+- [Singleton](examples/design/singleton.md)
+- [State](examples/design/state.rs)
+
+## Sequencing
+
+- [Double Buffer](examples/sequence/double-buffer.rs)
+- [Game Loop](examples/sequence/game-loop.rs)
+- [Update](examples/sequence/update.rs)
