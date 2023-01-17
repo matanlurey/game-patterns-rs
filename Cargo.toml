@@ -66,3 +66,11 @@ path = "examples/decouple/event-queue.rs"
 [[example]]
 name = "decouple-service-locator"
 path = "examples/decouple/service-locator.rs"
+
+[[example]]
+name = "optimize-data-locality"
+path = "examples/optimize/data-locality.rs"
+
+[[example]]
+name = "optimize-spatial-partition"
+path = "examples/optimize/spatial-partition.rs"

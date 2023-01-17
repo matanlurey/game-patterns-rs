@@ -36,6 +36,13 @@ implemented in Rust.
 - [Singleton](examples/design/singleton.md)
 - [State](examples/design/state.rs)
 
+## Optimization
+
+- [Data Locality](examples/optimize/data-locality.rs)
+- [Dirty Flag](examples/optimize/dirty-flag.md)
+- [Object Pool](examples/optimize/object-pool.md)
+- [Spatial Partition](examples/optimize/spatial-partition.rs)
+
 ## Sequencing
 
 - [Double Buffer](examples/sequence/double-buffer.rs)
